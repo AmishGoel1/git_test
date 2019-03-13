@@ -1,0 +1,1 @@
+This is Amish's first git project!
